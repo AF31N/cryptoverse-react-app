@@ -1,6 +1,7 @@
 {
   "name": "crypto-app",
   "homepage": "https://AF31N.github.io/cryptoverse-react-app",
+  "homepage": "https://react-appcryptoverse.netlify.app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -61,6 +62,7 @@
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "eslint": "^8.56.0",
-    "eslint-config-airbnb": "^19.0.4"
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-react-app": "^7.0.1"
   }
 }
