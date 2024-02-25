@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Line } from 'react-chartjs-2';
 import { Col, Row, Typography } from 'antd';
-import { useGetCryptoHistoryQuery } from '../services/cryptoApi';
 import { Chart, CategoryScale } from 'chart.js/auto';
 
 Chart.register(CategoryScale);
